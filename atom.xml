@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nick的博客</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://nicksheng.github.io/"/>
+  <updated>2017-06-27T03:16:08.000Z</updated>
+  <id>https://nicksheng.github.io/</id>
+  
+  <author>
+    <name>Nick Sheng</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://nicksheng.github.io/2017/06/27/hello-world/"/>
+    <id>https://nicksheng.github.io/2017/06/27/hello-world/</id>
+    <published>2017-06-27T03:16:08.000Z</published>
+    <updated>2017-06-27T03:16:08.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo 创建个人博客</title>
+    <link href="https://nicksheng.github.io/2017/06/14/hexo/"/>
+    <id>https://nicksheng.github.io/2017/06/14/hexo/</id>
+    <published>2017-06-14T11:52:31.000Z</published>
+    <updated>2017-06-27T15:04:23.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hexo是一款基于Node.js的静态博客框架，官方文档还是比较详细的 &lt;a href=&quot;https://hexo.io/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://hexo.io/zh-cn/&lt;/a&gt;&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://nicksheng.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="hexo" scheme="https://nicksheng.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
