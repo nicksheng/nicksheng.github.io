@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>https://nicksheng.github.io/2017/06/14/hexo/</loc>
+    <lastmod>2017-09-29T06:05:14.000Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 创建个人博客</title>
+        <pubTime>2017-06-14T11:52:31.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="其他" url="https://nicksheng.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://nicksheng.github.io/2017/06/30/zsh/</loc>
+    <lastmod>2017-09-29T05:33:04.000Z</lastmod>
+    <data>
+        <display>
+        <title>Mac 下配置zsh+oh-my-zsh</title>
+        <pubTime>2017-06-30T10:24:35.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+        <tag>zsh</tag>
+         
+         
+           
+             
+              <breadCrumb title="其他" url="https://nicksheng.github.io/categories/%E5%85%B6%E4%BB%96/"/>
+          
+        </display>
+    </data>
+    </url>
+
+</urlset>
