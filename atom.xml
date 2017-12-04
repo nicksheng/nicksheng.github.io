@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nicksheng.github.io/"/>
-  <updated>2017-11-28T11:22:43.000Z</updated>
+  <updated>2017-12-04T09:59:28.000Z</updated>
   <id>https://nicksheng.github.io/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>IntelliJ IDEA import包顺序调整</title>
+    <link href="https://nicksheng.github.io/2017/12/04/idea-import-order/"/>
+    <id>https://nicksheng.github.io/2017/12/04/idea-import-order/</id>
+    <published>2017-12-04T09:59:28.000Z</published>
+    <updated>2017-12-04T09:59:28.000Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;项目中如果团队使用的工具不同，往往提交代码之后，import的部分会引起冲突，有的时候是因为import的顺序不同，有的时候是因为eclipse默认会把包展开，idea默认会把部分包合并为*，可以对工具做一定的设置避免不必要的麻烦。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://nicksheng.github.io/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="IntelliJ IDEA" scheme="https://nicksheng.github.io/tags/IntelliJ-IDEA/"/>
+    
+  </entry>
   
   <entry>
     <title>Docker</title>
@@ -40,7 +60,7 @@
     <link href="https://nicksheng.github.io/2017/06/30/zsh/"/>
     <id>https://nicksheng.github.io/2017/06/30/zsh/</id>
     <published>2017-06-30T10:24:35.000Z</published>
-    <updated>2017-09-29T05:33:04.000Z</updated>
+    <updated>2017-12-04T10:01:53.000Z</updated>
     
     <summary type="html">
     
@@ -61,8 +81,8 @@
     <title>Hexo 创建个人博客</title>
     <link href="https://nicksheng.github.io/2017/06/14/hexo/"/>
     <id>https://nicksheng.github.io/2017/06/14/hexo/</id>
-    <published>2017-06-14T11:52:31.000Z</published>
-    <updated>2017-09-29T06:40:10.000Z</updated>
+    <published>2017-06-14T11:01:58.000Z</published>
+    <updated>2017-12-04T10:03:13.000Z</updated>
     
     <summary type="html">
     
