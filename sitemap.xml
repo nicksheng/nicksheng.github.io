@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://nicksheng.github.io/2017/06/30/mac-zsh/</loc>
+    
+    <lastmod>2018-07-23T06:03:22.467Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://nicksheng.github.io/2018/07/23/mac-command/</loc>
+    
+    <lastmod>2018-07-23T06:02:10.889Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://nicksheng.github.io/2017/12/04/idea-import-order/</loc>
     
     <lastmod>2017-12-04T10:05:33.000Z</lastmod>
@@ -12,13 +26,6 @@
     <loc>https://nicksheng.github.io/2017/06/14/hexo/</loc>
     
     <lastmod>2017-12-04T10:03:13.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://nicksheng.github.io/2017/06/30/zsh/</loc>
-    
-    <lastmod>2017-12-04T10:01:53.000Z</lastmod>
     
   </url>
   

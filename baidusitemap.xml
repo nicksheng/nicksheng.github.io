@@ -4,6 +4,48 @@
 
     
   <url>
+    <loc>https://nicksheng.github.io/2017/06/30/mac-zsh/</loc>
+    <lastmod>2018-07-23T06:03:22.467Z</lastmod>
+    <data>
+        <display>
+        <title>Mac 下配置zsh+oh-my-zsh</title>
+        <pubTime>2017-06-30T10:24:35.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+        <tag>zsh</tag>
+         
+         
+           
+             
+              <breadCrumb title="mac" url="https://nicksheng.github.io/categories/mac/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>https://nicksheng.github.io/2018/07/23/mac-command/</loc>
+    <lastmod>2018-07-23T06:02:10.889Z</lastmod>
+    <data>
+        <display>
+        <title>Mac 常用命令</title>
+        <pubTime>2018-07-23T06:02:10.000Z</pubTime>
+        
+        <tag>mac</tag>
+         
+         
+           
+             
+              <breadCrumb title="mac" url="https://nicksheng.github.io/categories/mac/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://nicksheng.github.io/2017/12/04/idea-import-order/</loc>
     <lastmod>2017-12-04T10:05:33.000Z</lastmod>
     <data>
@@ -32,28 +74,6 @@
         <pubTime>2017-06-14T11:01:58.000Z</pubTime>
         
         <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="其他" url="https://nicksheng.github.io/categories/%E5%85%B6%E4%BB%96/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>https://nicksheng.github.io/2017/06/30/zsh/</loc>
-    <lastmod>2017-12-04T10:01:53.000Z</lastmod>
-    <data>
-        <display>
-        <title>Mac 下配置zsh+oh-my-zsh</title>
-        <pubTime>2017-06-30T10:24:35.000Z</pubTime>
-        
-        <tag>mac</tag>
-         
-        <tag>zsh</tag>
          
          
            
