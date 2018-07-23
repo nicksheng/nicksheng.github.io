@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://nicksheng.github.io/"/>
-  <updated>2018-07-23T06:02:10.889Z</updated>
+  <updated>2018-07-23T06:05:25.767Z</updated>
   <id>https://nicksheng.github.io/</id>
   
   <author>
@@ -20,14 +20,11 @@
     <link href="https://nicksheng.github.io/2018/07/23/mac-command/"/>
     <id>https://nicksheng.github.io/2018/07/23/mac-command/</id>
     <published>2018-07-23T06:02:10.000Z</published>
-    <updated>2018-07-23T06:02:10.889Z</updated>
+    <updated>2018-07-23T06:05:25.767Z</updated>
     
     <summary type="html">
     
-      &lt;h2 id=&quot;通用命令&quot;&gt;&lt;a href=&quot;#通用命令&quot; class=&quot;headerlink&quot; title=&quot;通用命令&quot;&gt;&lt;/a&gt;通用命令&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;head 查看文件前N行内容&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&quot;highlight plain
+      &lt;p&gt;记录下Mac下的常用命令&lt;/p&gt;
     
     </summary>
     
